@@ -1,0 +1,92 @@
+.top-container{
+  background-color:#e0ebe8;
+  position: relative;
+  padding-top: 100px;
+  line-height:normal;
+}
+.middle-container{
+  margin: 100px 0;
+}
+.bottom-container{
+  height: 200px;
+  margin-top: 50px;
+  background-color: #e0ebe8;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.footer-link{
+  padding-right: 20px;
+  position: relative;
+  top: 60px;
+  color:#01a3a4;
+  text-decoration: none;
+}
+.footer-text{
+  margin: 100px auto 100px auto;
+  color:#01a3a4;
+  font-size: 0.75rem;
+}
+.middle-text{
+    margin: 50px auto 60px;
+  width: 30%;
+
+}
+h1{
+  color: #01a3a4;
+  font-size: 6.25rem;
+  font-family: 'Dancing Script', cursive;
+  margin: 60px auto 0 auto;
+}
+p{
+  line-height:2;
+}
+body{
+  margin: 0;
+text-align:center;
+font-family: 'Manrope', sans-serif;
+color:#535c68;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom: 300px;
+}
+.top-cloud{
+  position:relative;
+  left:200px;
+}
+h2{
+  color: #01a3a4;
+  font-size: 2.5rem;
+  font-family: 'Barlow Condensed', sans-serif;
+}
+h3{
+  color:#00d2d3;
+  font-size: 1.875rem;
+  font-family: 'Barlow Condensed', sans-serif
+}
+a:hover{
+  color:#00d2d3;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.first-skill{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.second-skill{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+hr{
+  width: 4%;
+  border: dotted #565d47 6px;
+  border-bottom: 0;
+  margin: 100px auto 100px auto;
+  }
